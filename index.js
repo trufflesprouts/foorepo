@@ -1,8 +1,5 @@
 var foo = 'bar';
 
+if (object.hasOwnProperty(variable)) {
 
-for (var variable in object) {
-  if (object.hasOwnProperty(variable)) {
-
-  }
 }
